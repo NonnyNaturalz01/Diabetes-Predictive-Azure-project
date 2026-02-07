@@ -9,10 +9,9 @@ risk with high accuracy.
 - Early Detection: Finds people who are at risk before they exhibit clinical symptoms.
 - Resource optimization makes it possible to implement focused screening and intervention initiatives.
 <br>
-<br>
 <h2><b>Data</b></h2><br>
 <h3>Source</h3><br>
--
+
 <br>
 <h3>Description</h3>
 - number of rows: 768
