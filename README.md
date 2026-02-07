@@ -18,7 +18,7 @@ risk with high accuracy.
 - Key Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age <br>
 - Target Variable: Outcome 
 <br>
-<h3>Preprocessing</h3><br>
+<h3>Preprocessing</h3>
 Removed Outliers
 <br>
 <h3>Model Used</h3>
