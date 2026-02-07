@@ -13,9 +13,9 @@ risk with high accuracy.
 <h3>Source</h3>
 <br>
 <h3>Description</h3>
-- number of rows: 768
-- number of cols: 9
-- Key Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age
+- number of rows: 768<br>
+- number of cols: 9<br>
+- Key Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age <br>
 - Target Variable: Outcome 
 <br>
 <h3>Preprocessing</h3><br>
