@@ -1,4 +1,4 @@
-**<title>Diabetes Prediction Model - Azure ML Studio </title>** <br>
+**<h1>Diabetes Prediction Model - Azure ML Studio </h1>** <br>
 
 <b><u>Summary</U></b> <br>
 This project uses Azure Machine Learning Studio to develop a complete machine learning solution for diabetes prediction.
