@@ -10,5 +10,24 @@ risk with high accuracy.
 - Resource optimization makes it possible to implement focused screening and intervention initiatives.
 <br>
 <br>
-<h2><b>Data</b></h2>
+<h2><b>Data</b></h2><br>
+<h3>Source</h3><br>
+-
+<br>
+<h3>Description</h3>
+- number of rows: 768
+- number of cols: 9
+- Key Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age
+- Target Variable: Outcome 
+<br>
+<h3>Preprocessing</h3><br>
+Removed Outliers
+<br>
+<h3>Model Used</h3>
+<br>
+Support Vector Machine
+<br>
+<br>
+
+
 
