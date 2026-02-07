@@ -10,8 +10,7 @@ risk with high accuracy.
 - Resource optimization makes it possible to implement focused screening and intervention initiatives.
 <br>
 <h2><b>Data</b></h2><br>
-<h3>Source</h3><br>
-
+<h3>Source</h3>
 <br>
 <h3>Description</h3>
 - number of rows: 768
