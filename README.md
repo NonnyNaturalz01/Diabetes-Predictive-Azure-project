@@ -4,6 +4,7 @@
 This project uses Azure Machine Learning Studio to develop a complete machine learning solution for diabetes prediction.
 The approach, which is implemented as a flexible cloud service for real-time inference, uses clinical data to predict diabetes 
 risk with high accuracy.
+
 <br>
 <br>
 <b><u>Business Value</u></b>
