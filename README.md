@@ -14,7 +14,7 @@ risk with high accuracy.
 <h2><b>Data</b></h2>
 <h3>Source</h3>
 
-<h3>Description</h3>
+<h3>Description:</h3>
 - number of rows: 768<br>
 - number of cols: 9<br>
 - Key Features: Pregnancies, Glucose, BloodPressure, SkinThickness, Insulin, BMI, DiabetesPedigreeFunction, Age <br>
